@@ -19,7 +19,7 @@ print(n)
 
 n.pop()  # last value will me popped 
 print(n)
-print
+
 m=n.copy()  # All data of n array will be copied into m array
 print(m)
 
@@ -40,3 +40,4 @@ print(w)
 
 v=list(range(8, 22, 2))  # range() function generate 8 to till 22 and interval will be 2
 print(v)
+
